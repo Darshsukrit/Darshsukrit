@@ -12,16 +12,6 @@
   AI Engineering · Agentic Systems · Backend · SaaS
 </p>
 
----
-
-<h3 align="center">⚡ Tech Stack</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,ts,js,react,nodejs,fastapi,tailwind,postgres,mongodb,docker,git,github" />
-</p>
-
----
-
 <h3 align="center">🚀 What I'm Building</h3>
 
 <p align="center">
