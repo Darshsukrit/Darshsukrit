@@ -12,6 +12,8 @@
   AI Engineering · Agentic Systems · Backend · SaaS
 </p>
 
+---
+
 <h3 align="center">🚀 What I'm Building</h3>
 
 <p align="center">
@@ -63,12 +65,11 @@
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://github.com/Darshsukrit">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <a href="https://github.com/Darshsukrit">GitHub</a>
+  ·
+  <a href="https://www.linkedin.com/in/darsh-sukrit-5423aa324/">LinkedIn</a>
+  ·
+  <a href="mailto:darshsukritg.2006@gmail.com">Email</a>
 </p>
 
 ---
